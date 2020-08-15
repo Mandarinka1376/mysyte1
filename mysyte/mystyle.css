@@ -1,0 +1,103 @@
+#logo { 
+display: inline-block; 
+margin-right: 5px; 
+padding: 3px; 
+vertical-align: middle;
+} 
+.solid { 
+border: 1px double black; 
+background: rgb(200, 131, 235); 
+padding:auto; 
+width: 100px;
+vertical-align:middle;
+} 
+#reklama{ 
+text-decoration: none;
+display: inline-block; 
+vertical-align: middle; 
+margin-left:auto; 
+border: 1px solid #000; 
+padding: 3px;
+} 
+#reklama3{ 
+display: inline-block; 
+margin-left:auto; 
+padding:auto; 
+margin-left: auto; 
+vertical-align: middle;
+text-decoration: none; 
+} 
+#reklama4{ 
+display: inline-block; 
+vertical-align: middle; 
+margin-left:auto; 
+border: 1px solid #000; 
+padding: 3px; 
+width:150px; 
+} 
+#ere{ 
+display: inline-block; 
+vertical-align: under; 
+margin-left:auto; 
+border: 1px solid #000; 
+padding: 3px; 
+width:auto;
+text-decoration: none;
+} 
+#reklama2{ 
+display: inline-block; 
+float: top;
+margin: 10px 5px 20px 0px; 
+padding: 5px; 
+} 
+#reklama5{ 
+display:inline-block; 
+float: top;
+margin: 10px 5px 20px 0px;
+padding: 5px;
+} 
+#lola{
+margin-left: 20px;
+border: 1px solid #000;
+} 
+#w{ 
+float: left; 
+width: 100px; 
+border: 1px solid #000;
+display: block;
+padding:2px;
+text-decoration: none;
+color: black;
+} 
+#menu { 
+float: left; 
+width: 200px; 
+padding: 5px; 
+margin: 10px 10px 20px 5px; 
+} 
+#content { 
+float: left;
+margin: 10px 5px 20px 0px; 
+padding: 5px; 
+} 
+#content2{ 
+float: left;
+margin: 10px 5px 20px 0px; 
+padding: 5px;  
+}
+#right-block{
+margin-left: 1000px;
+margin-top:-700px;
+}
+.thumb{
+border: 4px double black;
+background: white;
+padding: 10px;
+font-style: italic; 
+font-weight: bold;
+background-color:#e6e6e6;   
+}
+#footer{ 
+float:bottom;
+margin-top: 700px;
+}
